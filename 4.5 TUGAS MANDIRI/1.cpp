@@ -1,0 +1,15 @@
+#include <stdio.h>
+int main(){
+	int num;
+	printf("Apakah bilangan itu ganjil atau genap?\n");
+	printf("======================================\n");
+	printf("Masukkan bilangan : ");
+	scanf("%d",&num);
+	if((num%2)==0){
+		printf("Angka %2d adalah genap!",num);
+	}else{
+		printf("Angka %2d adalah ganjil!",num);
+	}
+	
+	return 0;
+}
