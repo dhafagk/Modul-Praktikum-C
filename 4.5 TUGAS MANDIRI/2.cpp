@@ -1,3 +1,9 @@
+/*
+ * Author: Dhafa Gustiadi Kurniawan
+ * Program: Buat sistem dari flowchart
+ * Bahasa: C
+ * Hapus ini awas aja kau anjing
+ */
 #include <stdio.h>
 int main(){
 	int n;

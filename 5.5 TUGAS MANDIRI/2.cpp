@@ -1,3 +1,9 @@
+/*
+ * Author: Dhafa Gustiadi Kurniawan
+ * Program: Switch Case
+ * Bahasa: C
+ * Hapus ini awas aja kau anjing
+ */
 #include <stdio.h>
 int main(){
 	char jenis;

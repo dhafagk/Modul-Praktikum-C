@@ -1,3 +1,9 @@
+/*
+ * Author: Dhafa Gustiadi Kurniawan
+ * Program: Menghitung biaya parkir 
+ * Bahasa: C
+ * Hapus ini awas aja kau anjing
+ */
 #include <stdio.h>
 int main(){
 	int jm,jk,lb,biaya,i;

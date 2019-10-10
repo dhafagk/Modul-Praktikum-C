@@ -1,3 +1,9 @@
+/*
+ * Author: Dhafa Gustiadi Kurniawan
+ * Program: Menghitung lama bekerja / selisih
+ * Bahasa: C
+ * Hapus ini awas aja kau anjing
+ */
 #include <stdio.h>
 int main(){
 	int jm,jk,lb;
